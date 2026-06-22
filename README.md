@@ -27,3 +27,4 @@ SELECT ism AS talaba_ismi, yonalish AS fakulteti
 FROM talabalar;
 SELECT ism, familiya, ball AS joriy_ball, (ball * 1.1) AS yangi_ball
 FROM talabalar;
+SELECT ism, familiya, ball AS joriy_ball, (ball * 1.1) AS yangi_ball FROM talabalar;
